@@ -1,3 +1,3 @@
 # leetcode
 
-all of the practice problems from love babbar's final 450 
+Practice problems that I have done so far.
